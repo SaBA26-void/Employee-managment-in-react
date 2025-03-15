@@ -1,0 +1,35 @@
+/* src/App.css */
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.controls {
+  margin: 20px 0;
+}
+
+.controls button,
+.controls input {
+  margin: 0 10px 10px 0;
+  padding: 5px 10px;
+}
+
+.add-employee {
+  margin: 20px 0;
+}
+
+.add-employee input {
+  margin: 0 10px 10px 0;
+  padding: 5px;
+}
+
+.results ul {
+  list-style: none;
+  padding: 0;
+}
+
+.results li {
+  padding: 5px 0;
+  border-bottom: 1px solid #eee;
+}
